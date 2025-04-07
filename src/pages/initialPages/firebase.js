@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA-QUFdmkri7tul4SYrErEivDaxBksa1Qc",
+    // apiKey: "",
     authDomain: "workup-464af.firebaseapp.com",
     projectId: "workup-464af",
     storageBucket: "workup-464af.appspot.com",
